@@ -30,7 +30,7 @@ This project demonstrates a complete production-ready Site Reliability Engineeri
 ## Screenshots
 
 ### Live Application
-![App Running](screenshots/1-app-in-browser.jpg)
+![App Running](screenshots/app-in-browser.jpg)
 
 ### Kubernetes Infrastructure
 ![Kubectl Nodes](screenshots/2-kubectl-nodes.png)
