@@ -33,14 +33,14 @@ This project demonstrates a complete production-ready Site Reliability Engineeri
 ![App Running](screenshots/app-in-browser.jpg)
 
 ### Kubernetes Infrastructure
-![Kubectl Nodes](screenshots/2-kubectl-nodes.png)
-![Running Pods](screenshots/3-kubectl-pods.png)
-![LoadBalancer Service](screenshots/4-kubectl-service.png)
+![Kubectl Nodes](screenshots/kubectl-nodes.png)
+![Running Pods](screenshots/kubectl-pods.png)
+![LoadBalancer Service](screenshots/kubectl-service.png)
 
 ### Grafana Monitoring Dashboards
-![Grafana Login](screenshots/5-grafana-login.png)
-![Cluster Dashboard](screenshots/6-grafana-cluster-dashboard.png)
-![Pods Dashboard](screenshots/7-grafana-pods-dashboard.png)
+![Grafana Login](screenshots/grafana-login.png)
+![Cluster Dashboard](screenshots/grafana-cluster-dashboard.png)
+![Pods Dashboard](screenshots/grafana-pods-dashboard.png)
 
 ## Technologies Used
 | Category | Technologies |
